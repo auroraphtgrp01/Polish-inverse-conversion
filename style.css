@@ -1,0 +1,15 @@
+.conversion-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.conversion-table th,
+.conversion-table td {
+  border: 1px solid #ddd;
+  padding: 9px;
+  text-align: left;
+}
+
+.conversion-table th {
+  background-color: #f2f2f2;
+}
